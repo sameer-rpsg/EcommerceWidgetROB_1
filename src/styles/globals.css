@@ -1007,7 +1007,6 @@ html.w-mod-touch * {
 .story-main-container h6 span {
   color: var(--text-color) !important;
 }
-.story-main-container a,
 .story-main-container a > span {
   position: relative;
   color: red !important;
@@ -2057,9 +2056,13 @@ html.w-mod-touch * {
     grid-gap: 30px;
     gap: 30px;
 }
-.story-main-container a, .story-main-container a>span {
+/* .story-main-container a, .story-main-container a>span {
     position: relative;
     color: red !important;
+} */
+.story-main-container a>span {
+    position: relative;
+    color: red;
 }
 .relatedPost_grid__vaHGq .relatedPost_relatedPostCard__o_jUK {
     display: flex !important
