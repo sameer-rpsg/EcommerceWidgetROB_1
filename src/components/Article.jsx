@@ -11,37 +11,42 @@ const Article = () => {
         data-current="true"
         data-promotional="false"
         islast="false"
-        data-id="68cace2c9b4d8b0a27de3adc"
-        data-slug="/motoring/cars/this-one-of-one-commission-rolls-royce-cullinan-gets-its-first-ever-hand-painted-roof"
+        data-id="68be7cdee4b45fca5dcbe601"
+        data-slug="/style/fashion-and-beauty/luxury-athleisure-tenniscore-fashion-luxury-brands-gucci-hermes-dior"
         style={{ position: "relative" }}
       >
         <div className="ad-flex-all">
           <div
-            id="div-gpt-ad-stories-top-68cace2c9b4d8b0a27de3adc"
+            id="div-gpt-ad-stories-top-68be7cdee4b45fca5dcbe601"
             data-cy="Ad"
             className="ad-text"
-          />
+            data-google-query-id="CNioq_yRzpADFd9xnQkdbogKJA"
+          >
+            <div
+              id="google_ads_iframe_/23290324739/RobbReport-Desktop-Top-970_0__container__"
+              style={{ border: "0pt none", width: 970, height: 0 }}
+            />
+          </div>
         </div>
         <section className="story-hero-section">
           <div className="story_hero_hero_container">
             <div className="story_hero_text_container">
               <span className="story_hero_category">
-                <a href="/motoring/cars">Cars</a>
+                <a href="/style/fashion-and-beauty">Fashion &amp; Beauty</a>
               </span>
               <h1 className="story_hero_title">
-                Rolls-Royce Cullinan Cosmos is the First Rolls-Royce in History
-                to have a Hand-Painted Inner Roof
+                These Fashion Houses Are Acing the Tenniscore Aesthetic
               </h1>
               <p className="story_hero_description">
-                Rolls-Royce Cullinan Cosmos is a one-of-one commission for a
-                family fascinated by space.
+                Here's the lowdown on the season's luxe-lit sporty chic
+                essentials.{" "}
               </p>
             </div>
             <div className="story_hero_info_container">
               <p className="story_hero_info story_info_tag">
-                By{" "}
+                By{/* */}{" "}
                 <span className="">
-                  <a href="/author/riaan-jacob-george">Riaan Jacob George</a>
+                  <a href="/author/manish-mishra">Manish Mishra</a>
                 </span>
               </p>
               <div className="ShareBtn story_info_tag">
@@ -58,33 +63,36 @@ const Article = () => {
                 </svg>
                 <span>Share</span>
               </div>
-              <p className="story_hero_info story_info_tag">Sep 17, 2025</p>
+              <p className="story_hero_info story_info_tag">Sep 9, 2025</p>
             </div>
           </div>
           <div className="story_hero_image_container">
             <img
-              alt="Rolls-Royce Cullinan Cosmos"
+              alt="Gucci Tenniscore Trend"
               loading="lazy"
               decoding="async"
               data-nimg="fill"
-              sizes="100vw"
-              src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-09-17T15%253A07%253A19.041Z-Untitled%2520design%2520-%25202025-09-17T125712.116.jpg&w=1920&q=75"
               style={{
                 position: "absolute",
                 height: "100%",
                 width: "100%",
-                inset: 0,
+                left: 0,
+                top: 0,
+                right: 0,
+                bottom: 0,
                 objectFit: "cover",
                 color: "transparent",
               }}
+              sizes="100vw"
+              src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-09-08T13%253A27%253A28.797Z-RR%2520Lead%2520%25281%2529.jpg&w=3840&q=75"
             />
           </div>
           <div className="story-photoBy">
             <span className="story-caption">
-              Rolls-Royce unveils the one-off Cullinan Cosmos with a 160-hour
-              hand-painted starry headliner.
+              Gucci leads the Tenniscore trend with its 1970s-inspired Gucci
+              Tennis collection, blending sport and timeless elegance.
             </span>
-            <span className="story-courtesy">Image courtesy: Rolls Royce</span>
+            <span className="story-courtesy">Image courtesy: {/* */}Gucci</span>
           </div>
         </section>
         <div className="containerWrapper mob-py-0 pb-0">
@@ -92,203 +100,368 @@ const Article = () => {
             <main className="story-main-container">
               <div className="story-main-wrapper">
                 <p style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    We’re always up for some automotive indulgence, but the good
-                    folks at Goodwood know just how to pull out a surprise from
-                    the hat. Like the news dispatch we received today, of the
-                    Cullinan Cosmos, only one of which has been commissioned.
-                    This also happens to be the first{" "}
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    Preppy chic and 'tenniscore' aesthetics show no signs of
+                    fading out.{" "}
+                  </span>
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    According to reports, 'tenniscore,' as a search term,
+                    clocked in a record high a few weeks ago on Google Trends.{" "}
+                  </span>
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    In fact, the 'tenniscore' fad has even made inroads into the
+                    wedding or bridal space with the growing popularity of
+                    tennis-themed events. With the U.S. Open kicking off in New
+                    York last week, it's hard to overlook the all-pervading
+                    tennis chic trend both on and off the court. Think preppy
+                    pleats and collared shirts, or picture Zendaya during her{" "}
+                  </span>
+                  <span
+                    style={{ color: "rgb(36, 36, 36)", fontStyle: "italic" }}
+                  >
+                    Challengers{" "}
+                  </span>
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    movie press tour.
+                  </span>
+                </p>
+                <p style={{ textAlign: "justify" }} />
+                <p style={{ textAlign: "justify" }}>
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    From Gucci, Dior, and Hermes to active wear brands like
+                    Beyond Yoga, Lululemon, and Vuori, designers have reimagined
+                    sporty chic in their respective handwriting. Lacoste's
+                    tennis heritage dresses, Tory Burch's jersey numbers, and
+                    Dolce &amp; Gabbana's ribbed knit polos come to mind
+                    instantly. Miu Miu's drill visors have emerged as the
+                    season's 'it' accessory. Moreover, with heat and humidity
+                    still showing no signs of easing, a pleated tennis mini and
+                    a polo tee, along with a baseball cap and trainers, make the
+                    ultimate investments. Not surprisingly, luxury brands are
+                    acing the trend with great gusto.
+                  </span>
+                </p>
+                <h2 style={{ textAlign: "left", fontSize: "34px!important" }}>
+                  <span style={{ color: "rgb(0, 0, 0)" }}>Gucci</span>
+                </h2>
+                <div>
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "center",
+                      margin: "20px 0",
+                    }}
+                  >
+                    <div className="story-hoverDiv" style={{ width: "100%" }}>
+                      <img
+                        alt="Gucci Tennis Collection"
+                        loading="lazy"
+                        width={700}
+                        height={475}
+                        decoding="async"
+                        data-nimg={1}
+                        style={{
+                          color: "transparent",
+                          width: "100%",
+                          height: "auto",
+                        }}
+                        sizes="100vw"
+                        src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-08T13%253A16%253A24.988Z-RR%2520Inline%2520%25282%2529.jpg&w=3840&q=75"
+                      />
+                      <div className="story-photoBy">
+                        <span className="story-caption">
+                          The Gucci Tennis Collection features sports-inspired
+                          ready-to-wear, handbags, and accessories.
+                        </span>
+                        <span className="story-courtesy">
+                          Image courtesy: Gucci
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <p style={{ textAlign: "justify" }}>
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    A case in point is{" "}
                   </span>
                   <a
                     target="_blank"
-                    rel="noopener noreferrer"
-                    href="https://www.robbreportindia.com/motoring/cars/cave-art-and-the-spirit-of-ecstasy-three-specially-commissioned-rolls-royces-pay-tribute-to-ancient-chinese-mural-art"
-                    style={{ color: "rgb(0, 0, 0)" }}
+                    style={{ color: "rgb(36, 36, 36)" }}
+                    href="https://www.robbreportindia.com/tag/gucci"
                   >
-                    <span style={{ color: "rgb(0, 0, 0)" }}>Rolls-Royce</span>
+                    <span style={{ color: "rgb(36, 36, 36)" }}>Gucci</span>
                   </a>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    {" "}
-                    in history to have an inner roof that’s entirely
-                    hand-painted.{" "}
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    ’s ongoing collection that evokes sun-drenched leisure and
+                    cinematic elegance. Inspired by archival codes and the
+                    House’s first tennis-infused offerings from the 1970s, the
+                    collection celebrates the timeless allure and effortless
+                    confidence of the sport’s lifestyle.{" "}
                   </span>
                 </p>
                 <p style={{ textAlign: "justify" }} />
                 <p style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    The headliner (inner, fabric-covered roof) took over 160
-                    hours to be completed, and this task was carried out by one
-                    of Rolls-Royce’s resident artists. This car was commissioned
-                    by a family fascinated by astronomy and space and ordered
-                    through the carmaker’s Dubai office.
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    Featuring sports-inspired ready-to-wear, handbags, and
+                    accessories, the Gucci Tennis collection reflects the
+                    lifestyle of the tennis world. Women’s styles are crisp and
+                    pleated, accented with the signature web stripe as a
+                    stylistic reinterpretation of classic tennis whites. Men’s
+                    polo shirts channel a 1970s attitude with clean-cut,
+                    pronounced collars. Accessories add a retro touch with
+                    headbands and metallic aviators, while handbags and duffle
+                    bags crafted in GG monogram canvas with leather trim echo
+                    the House’s heritage of sport-infused craftsmanship.
                   </span>
-                  <span style={{ color: "inherit" }}>&nbsp;</span>
                 </p>
+                <div>
+                  <div className="ad-flex-all">
+                    <div
+                      id="div-gpt-ad-subcategory-within-content-300x250-68be7cdee4b45fca5dcbe601"
+                      data-cy="Ad"
+                      className="ad-text"
+                      data-google-query-id="CI2Sr_yRzpADFblwnQkdjd47yg"
+                      style={{ marginBottom: 20 }}
+                    >
+                      <div
+                        id="google_ads_iframe_/23290324739/RobbReport-Desktop-Bottom-300_0__container__"
+                        style={{ border: "0pt none", width: 300, height: 0 }}
+                      />
+                    </div>
+                  </div>
+                </div>
                 <div>
                   <div
                     style={{
                       display: "flex",
                       justifyContent: "center",
-                      margin: "20px 0px",
+                      margin: "20px 0",
                     }}
                   >
                     <div className="story-hoverDiv" style={{ width: "100%" }}>
                       <img
-                        alt="Rolls-Royce Cullinan Cosmos Hand-Painted Inner Roof"
+                        alt="Gucci"
                         loading="lazy"
                         width={700}
                         height={475}
                         decoding="async"
                         data-nimg={1}
-                        sizes="100vw"
-                        src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-17T15%253A07%253A48.905Z-Untitled%2520design%2520-%25202025-09-17T125745.513.jpg&w=1920&q=75"
                         style={{
                           color: "transparent",
                           width: "100%",
                           height: "auto",
                         }}
+                        sizes="100vw"
+                        src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-08T13%253A19%253A49.861Z-RR%2520Inline%2520%25283%2529.jpg&w=3840&q=75"
                       />
                       <div className="story-photoBy">
                         <span className="story-caption">
-                          The custom Rolls-Royce colours used inside the car are
-                          Charles Blue and Grace White leather, complemented by
-                          glossy Piano White veneers.
+                          The limited-edition Gucci x Head racket highlights the
+                          House’s longstanding connection with the tennis world
+                          through a bold design that blends performance with
+                          distinct design elements.{" "}
                         </span>
                         <span className="story-courtesy">
-                          Image courtesy: Rolls Royce
+                          Image courtesy: Gucci
                         </span>
                       </div>
                     </div>
                   </div>
                 </div>
-                <h2 style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    How was the Rolls-Royce Cullinan Cosmos Handcrafted?
+                <p style={{ textAlign: "justify" }}>
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    The limited-edition Gucci x Head racket highlights the
+                    House’s longstanding connection with the tennis world
+                    through a bold design that blends performance with distinct
+                    design elements. The frame is adorned with Gucci’s web
+                    stripe, while the red string bed features the Interlocking G
+                    emblem at its centre. Designed for a balanced blend of power
+                    and control, the Speed MP racket includes an anti-vibration
+                    dampener, uniting technical performance with unmistakable
+                    style.
+                  </span>
+                </p>
+                <h2
+                  style={{ textAlign: "justify", fontSize: "34px!important" }}
+                >
+                  <span style={{ color: "rgb(36, 36, 36)" }}>Hermès</span>
+                </h2>
+                  <div className={styles.EcomHovercardwrapper}>
+                  <EcomWidgetCard imgSrc="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-08T13%253A23%253A01.573Z-RR%2520Inline%2520%25285%2529.jpg&w=3840&q=75" />
+                </div>
+                  <EcomWidgetGrid />
+                <div>
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "center",
+                      margin: "20px 0",
+                    }}
+                  >
+                    <div className="story-hoverDiv" style={{ width: "100%" }}>
+                      <img
+                        alt="Hermès Trainers"
+                        loading="lazy"
+                        width={700}
+                        height={475}
+                        decoding="async"
+                        data-nimg={1}
+                        style={{
+                          color: "transparent",
+                          width: "100%",
+                          height: "auto",
+                        }}
+                        sizes="100vw"
+                        src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-08T13%253A21%253A14.508Z-RR%2520Inline%2520%25284%2529.jpg&w=3840&q=75"
+                      />
+                      <div className="story-photoBy">
+                        <span className="story-caption">
+                          Hermès Collection AW25 is crafted with the maison's
+                          signature craft-centric metier.{" "}
+                        </span>
+                        <span className="story-courtesy">
+                          Image courtesy: Hermès{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <p style={{ textAlign: "justify" }}>
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    These trainers from{" "}
+                  </span>
+                  <a
+                    target="_blank"
+                    style={{ color: "rgb(36, 36, 36)" }}
+                    href="https://www.robbreportindia.com/tag/hermes"
+                  >
+                    <span style={{ color: "rgb(36, 36, 36)" }}>Hermès </span>
+                  </a>
+                  <a
+                    target="_blank"
+                    style={{ color: "rgb(36, 36, 36)" }}
+                    href="https://www.robbreportindia.com/tag/hermes"
+                  >
+                    <span style={{ color: "rgb(36, 36, 36)" }}>Collection</span>
+                  </a>
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    {" "}
+                    AW25 are crafted with the maison's signature craft-centric
+                    métier. Comfortable and sturdy, they can be worn round the
+                    clock. They pair effortlessly well with any daytime look,
+                    and perhaps, work for nighttime too, with some outfit
+                    tweaks.
+                  </span>
+                </p>
+                <h2
+                  style={{ textAlign: "justify", fontSize: "34px!important" }}
+                >
+                  <span style={{ color: "rgb(36, 36, 36)" }}>Dior Men</span>
+                </h2>
+                <div>
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "center",
+                      margin: "20px 0",
+                    }}
+                  >
+                    <div className="story-hoverDiv" style={{ width: "100%" }}>
+                      <img
+                        alt="Tenniscore Fashion "
+                        loading="lazy"
+                        width={700}
+                        height={475}
+                        decoding="async"
+                        data-nimg={1}
+                        style={{
+                          color: "transparent",
+                          width: "100%",
+                          height: "auto",
+                        }}
+                        sizes="100vw"
+                        src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-08T13%253A23%253A01.573Z-RR%2520Inline%2520%25285%2529.jpg&w=3840&q=75"
+                      />
+                      <div className="story-photoBy">
+                        <span className="story-caption">
+                          (From left): Dior x Lew Hamilton capsule features
+                          technical jackets, and polo tees; the Christian
+                          Louboutin Mooncrest Cap brings elevated street style
+                          to life with its sleek silhouette
+                        </span>
+                        <span className="story-courtesy">
+                          Image courtesy: (From left): Dior, Christian Louboutin
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <p style={{ textAlign: "justify" }}>
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    Dior x Lewis Hamilton capsule features technical jackets,
+                    and polo tees with recurring CD motifs. Moreover, with its
+                    ultra-contemporary silhouette, the new B33 sneakers invite
+                    urban exploration.&nbsp;
+                  </span>
+                </p>
+                <div>
+                  <div className="ad-flex-all">
+                    <div
+                      id="div-gpt-ad-subcategory-within-content-300x250-68be7cdee4b45fca5dcbe601"
+                      data-cy="Ad"
+                      className="ad-text"
+                      style={{ marginBottom: 20 }}
+                    />
+                  </div>
+                </div>
+                <p style={{ textAlign: "justify" }} />
+                <p style={{ textAlign: "justify" }}>
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    Another case in point is{" "}
+                  </span>
+                  <a
+                    target="_blank"
+                    style={{ color: "rgb(36, 36, 36)" }}
+                    href="https://www.robbreportindia.com/tag/dior"
+                  >
+                    <span style={{ color: "rgb(36, 36, 36)" }}>Dior</span>
+                  </a>
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    {" "}
+                    Men's guest Lifestyle capsule by Lewis Hamilton, which
+                    merges street-wear aesthetic with sophistication in daring
+                    pieces with bold volumes. The collection features jackets
+                    and coats, bringing innovative tailoring with sportswear
+                    allure to the fore. These pieces are thoughtfully paired
+                    with refined knitwear, comfortable sweats, classic shirts,
+                    and reflective tracksuits.{" "}
+                  </span>
+                </p>
+                <h2
+                  style={{ textAlign: "justify", fontSize: "34px!important" }}
+                >
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    Christian Louboutin
                   </span>
                 </h2>
                 <p style={{ textAlign: "justify" }} />
-                <div>
-                  <div className="ad-flex-all">
-                    <div
-                      id="div-gpt-ad-subcategory-within-content-300x250-68cace2c9b4d8b0a27de3adc"
-                      data-cy="Ad"
-                      className="ad-text"
-                      style={{ marginBottom: 20 }}
-                    />
-                  </div>
-                </div>
                 <p style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    Handcrafted is the keyword here. As soon as you step into
-                    the cabin of the Cullinan Cosmos, it feels like you are
-                    floating in outer space, thanks to its visual and tactile
-                    design. The custom Rolls-Royce colours used inside are
-                    Charles Blue and Grace White leather, complemented by glossy
-                    Piano White veneers that allude to the shiny surfaces of
-                    space satellites.
-                  </span>
-                  <span style={{ color: "inherit" }}>&nbsp;</span>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    There is a Star Cluster leitmotif that runs through the car,
-                    and is entirely bespoke, seen on door panels and headrests.
+                  <span style={{ color: "rgb(36, 36, 36)" }}>
+                    The Christian Louboutin Mooncrest Cap brings elevated street
+                    style to life with its sleek silhouette. The front features
+                    an embroidered crest detail, while the adjustable strap
+                    ensures comfort and versatility. Perfect for off-duty days,
+                    city strolls, or adding a touch of luxury to weekend wear,
+                    the Mooncrest Cap effortlessly blends sporty ease with
+                    designer flair.
                   </span>
                 </p>
-                <p style={{ textAlign: "justify" }} />
-                <p style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    But the pièce de résistance is, of course, is the headliner
-                    used as a canvas for a handprinted work of art. Passengers
-                    looking up can see the Milky Way, replete with
-                    constellations and misty accents. The artist worked with
-                    acrylic paints and a multitude of brushes to add texture and
-                    depth to the artwork. He then used a special brush to finish
-                    the overall piece with a field of twinkling stars. Once the
-                    entire painting was completed, the craftsmen perforated it
-                    by hand to add the fibre optics to add the light effect. The
-                    mist was created by delicately applying paint with a makeup
-                    brush.
-                  </span>
-                </p>
-                <div>
-                  <div
-                    style={{
-                      display: "flex",
-                      justifyContent: "center",
-                      margin: "20px 0px",
-                    }}
-                  >
-                    <div className="story-hoverDiv" style={{ width: "100%" }}>
-                      <img
-                        alt="Rolls-Royce Cullinan Cosmos Painting"
-                        loading="lazy"
-                        width={700}
-                        height={475}
-                        decoding="async"
-                        data-nimg={1}
-                        sizes="100vw"
-                        src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-17T15%253A08%253A08.609Z-Untitled%2520design%2520-%25202025-09-17T125826.240.jpg&w=1920&q=75"
-                        style={{
-                          color: "transparent",
-                          width: "100%",
-                          height: "auto",
-                        }}
-                      />
-                      <div className="story-photoBy">
-                        <span className="story-caption">
-                          The exterior glows in Arabescato Pearl with twin
-                          Charles Blue coach lines.
-                        </span>
-                        <span className="story-courtesy">
-                          Image courtesy: Rolls Royce
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <p style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    The outside of the car is in Arabescato Pearl, as a
-                    reference to the moonlight. The Charles Blue that you find
-                    inside the cabin is mirrored on the outside as a twin coach
-                    line.
-                  </span>
-                  <span style={{ color: "inherit" }}>&nbsp; </span>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    This project, as Rolls-Royce Motor Cars’ Head of Bespoke,
-                    Phil Fabre de la Grange describes it, “explores new
-                    frontiers with our first ever hand-painted Starlight
-                    Headline.”
-                  </span>
-                </p>
-                <div>
-                  <div className="ad-flex-all">
-                    <div
-                      id="div-gpt-ad-subcategory-within-content-300x250-68cace2c9b4d8b0a27de3adc"
-                      data-cy="Ad"
-                      className="ad-text"
-                      style={{ marginBottom: 20 }}
-                    />
-                  </div>
-                </div>
-                <p style={{ textAlign: "justify" }} />
-                <p style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    If there is one manufacturer that somehow manages to realise
-                    the most outlandish extravagances of its customers, while
-                    consistently promoting the art of handmade and the culture
-                    of bespoke, it has got to be Rolls-Royce.
-                  </span>
-                </p>
-                <div className={styles.EcomHovercardwrapper}>
-                  <EcomWidgetCard imgSrc="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-03T10%253A57%253A29.655Z-MG_01067_768x960_5_11zon.jpeg&w=1920&q=75" />
-                </div>
-                  <EcomWidgetGrid />
                 <div
                   style={{
                     display: "flex",
                     justifyContent: "center",
                     width: "100%",
-                    margin: "20px 0px",
+                    margin: "20px 0",
                   }}
                 >
                   <div className="relatedPost_relatedPostWrapper__0ZH_b">
@@ -302,41 +475,44 @@ const Article = () => {
                       <a
                         target="_blank"
                         className="relatedPost_relatedPostCard__o_jUK"
-                        href="/motoring/vintage-and-classics/azam-monem-1937-family-rolls-royce-phantom-iii"
+                        href="/style/fashion-and-beauty/why-louis-vuittons-spring-summer-2026-show-is-an-ode-to-india"
                       >
                         <div className="relatedPost_relatedPostImage__u_DmN">
                           <img
-                            alt="Rolls-Royce Phantom III"
+                            alt="Louis Vuitton’s Men's Spring-Summer 2026 showcase in Paris ."
                             loading="lazy"
                             decoding="async"
                             data-nimg="fill"
                             className="imgcover"
-                            sizes="100vw"
-                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-08-11T08%253A08%253A58.690Z-Untitled%2520design%2520-%25202025-08-11T133805.079.jpg&w=1920&q=75"
                             style={{
                               position: "absolute",
                               height: "100%",
                               width: "100%",
-                              inset: 0,
+                              left: 0,
+                              top: 0,
+                              right: 0,
+                              bottom: 0,
                               objectFit: "cover",
                               color: "transparent",
                             }}
+                            sizes="100vw"
+                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-06-25T08%253A52%253A01.463Z-LEAD_GettyImages-2221940194.jpg&w=3840&q=75"
                           />
                         </div>
                         <div className="w-full bg-red-100">
                           <h3 className="relatedPost_card-title__PUoWX">
-                            Azam Monem on Owning the Bombay Governor’s Official
-                            1930s Rolls-Royce Ride
+                            To India, With Love: Why Louis Vuitton’s
+                            Spring-Summer 2026 Show is an Ode to India
                           </h3>
                           <span className="relatedPost_category__xvCra">
-                            Vintage &amp; Classics
+                            Fashion &amp; Beauty
                           </span>
                         </div>
                       </a>
                       <a
                         target="_blank"
                         className="relatedPost_relatedPostCard__o_jUK"
-                        href="/motoring/cars/cave-art-and-the-spirit-of-ecstasy-three-specially-commissioned-rolls-royces-pay-tribute-to-ancient-chinese-mural-art"
+                        href="/style/jewellery-and-accessories/louis-vuittons-sneakerina-is-destined-to-be-summers-buzziest-sneaker"
                       >
                         <div className="relatedPost_relatedPostImage__u_DmN">
                           <img
@@ -345,93 +521,28 @@ const Article = () => {
                             decoding="async"
                             data-nimg="fill"
                             className="imgcover"
-                            sizes="100vw"
-                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-07-25T09%253A20%253A10.235Z-Untitled%2520design%2520%252824%2529.jpg&w=1920&q=75"
                             style={{
                               position: "absolute",
                               height: "100%",
                               width: "100%",
-                              inset: 0,
+                              left: 0,
+                              top: 0,
+                              right: 0,
+                              bottom: 0,
                               objectFit: "cover",
                               color: "transparent",
                             }}
-                          />
-                        </div>
-                        <div className="w-full bg-red-100">
-                          <h3 className="relatedPost_card-title__PUoWX">
-                            Rolls Royce's Tribute to Chinese Murals With These
-                            Limited Editions is Art on Wheels
-                          </h3>
-                          <span className="relatedPost_category__xvCra">
-                            Cars
-                          </span>
-                        </div>
-                      </a>
-                      <a
-                        target="_blank"
-                        className="relatedPost_relatedPostCard__o_jUK"
-                        href="/motoring/cars/bentleys-indian-address-brand-bentley-officially-enters-india"
-                      >
-                        <div className="relatedPost_relatedPostImage__u_DmN">
-                          <img
-                            alt="Bentley Flying Spur"
-                            loading="lazy"
-                            decoding="async"
-                            data-nimg="fill"
-                            className="imgcover"
                             sizes="100vw"
-                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-07-10T08%253A06%253A41.869Z-Flying%2520Spur%2520%25281%2529%2520%25281%2529.jpg&w=1920&q=75"
-                            style={{
-                              position: "absolute",
-                              height: "100%",
-                              width: "100%",
-                              inset: 0,
-                              objectFit: "cover",
-                              color: "transparent",
-                            }}
+                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-04-21T21%253A09%253A16.134Z-LV1.jpg&w=3840&q=75"
                           />
                         </div>
                         <div className="w-full bg-red-100">
                           <h3 className="relatedPost_card-title__PUoWX">
-                            Bentley's New Address: Brand Bentley Officially
-                            Rolls Into India
+                            Louis Vuitton’s Sneakerina Is Destined to Be
+                            Summer’s Buzziest Sneaker
                           </h3>
                           <span className="relatedPost_category__xvCra">
-                            Cars
-                          </span>
-                        </div>
-                      </a>
-                      <a
-                        target="_blank"
-                        className="relatedPost_relatedPostCard__o_jUK"
-                        href="/motoring/cars/the-black-badge-spectre-is-the-most-powerful-rolls-royce-ever-made"
-                      >
-                        <div className="relatedPost_relatedPostImage__u_DmN">
-                          <img
-                            alt="The Black Badge Spectre  by Rolls-Royce"
-                            loading="lazy"
-                            decoding="async"
-                            data-nimg="fill"
-                            className="imgcover"
-                            sizes="100vw"
-                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-07-03T07%253A45%253A20.602Z-Untitled-1_optimized_700.jpg&w=1920&q=75"
-                            style={{
-                              position: "absolute",
-                              height: "100%",
-                              width: "100%",
-                              inset: 0,
-                              objectFit: "cover",
-                              color: "transparent",
-                            }}
-                          />
-                        </div>
-                        <div className="w-full bg-red-100">
-                          <h3 className="relatedPost_card-title__PUoWX">
-                            Made of Magic: The Black Badge Spectre, the Most
-                            Powerful Rolls-Royce Ever, is Now Available in India
-                          </h3>
-                          <span className="relatedPost_category__xvCra">
-                            Cars
+                            Jewellery &amp; Accessories
                           </span>
                         </div>
                       </a>
@@ -444,11 +555,17 @@ const Article = () => {
             <aside className="story-side-container">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-subcategory-rhs-300x250-68cace2c9b4d8b0a27de3adc"
+                  id="div-gpt-ad-subcategory-rhs-300x250-68be7cdee4b45fca5dcbe601"
                   data-cy="Ad"
                   className="ad-text"
+                  data-google-query-id="CNS0r_yRzpADFZlAnQkd7DAu6g"
                   style={{ marginBottom: 20 }}
-                />
+                >
+                  <div
+                    id="google_ads_iframe_/23290324739/RobbReport-Desktop-RHS-300_0__container__"
+                    style={{ border: "0pt none", width: 300, height: 0 }}
+                  />
+                </div>
               </div>
               <div className="story-side-wrapper">
                 <div className="story_main_classname_interesting">
@@ -459,7 +576,7 @@ const Article = () => {
                     <div className="story_interesting_classname_container">
                       <a
                         className="story_interesting_classname_card"
-                        href="/motoring/cars/shomenath-roy-chowdhurys-jaguar-xk140-once-transported-tiger-pataudi-in-style"
+                        href="/style/jewellery-and-accessories/swarovski-x-pent-makes-home-fitness-shine-with-crystal-covered-gym-equipment"
                       >
                         <div className="story_interesting_classname_imageWrapper">
                           <img
@@ -469,7 +586,7 @@ const Article = () => {
                             data-nimg="fill"
                             className="story_interesting_classname_image"
                             sizes="100vw"
-                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-09-19T11%253A25%253A17.960Z-WhatsApp%2520Image%25202025-09-19%2520at%25204.54.20%2520PM.jpeg&w=1920&q=75"
+                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-10-31T07%253A36%253A19.229Z-WhatsApp%2520Image%25202025-10-31%2520at%252013.05.05_a020c770.jpg&w=3840&q=75"
                             style={{
                               position: "absolute",
                               height: "100%",
@@ -481,11 +598,11 @@ const Article = () => {
                         </div>
                         <div className="story_interesting_classname_text">
                           <p className="story_interesting_classname_heading">
-                            Cars
+                            Jewellery &amp; Accessories
                           </p>
                           <p className="story_interesting_classname_description">
-                            Shomenath Roy Chowdhury’s Jaguar XK140 once
-                            Transported Tiger Pataudi in Style
+                            Swarovski x PENT Makes Home Fitness Shine with
+                            Crystal-Covered Gym Equipment{" "}
                           </p>
                         </div>
                       </a>
@@ -496,7 +613,7 @@ const Article = () => {
                     <div className="story_interesting_classname_container">
                       <a
                         className="story_interesting_classname_card"
-                        href="/motoring/vintage-and-classics/interview-with-car-collector-yohan-poonawalla"
+                        href="/style/bespoke/cricketer-abhishek-sharmas-most-coveted-possessions"
                       >
                         <div className="story_interesting_classname_imageWrapper">
                           <img
@@ -506,7 +623,7 @@ const Article = () => {
                             data-nimg="fill"
                             className="story_interesting_classname_image"
                             sizes="100vw"
-                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-09-17T06%253A13%253A36.676Z-Untitled%2520design%2520-%25202025-09-17T114142.184.jpg&w=1920&q=75"
+                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-10-30T19%253A24%253A46.077Z-WhatsApp%2520Image%25202025-10-31%2520at%252000.53.48_0f770f9a.jpg&w=3840&q=75"
                             style={{
                               position: "absolute",
                               height: "100%",
@@ -518,11 +635,10 @@ const Article = () => {
                         </div>
                         <div className="story_interesting_classname_text">
                           <p className="story_interesting_classname_heading">
-                            Vintage &amp; Classics
+                            Bespoke
                           </p>
                           <p className="story_interesting_classname_description">
-                            In Conversation With Yohan Poonawalla: The Classic
-                            Car Collector Who Owns Over 50 Rare Automobiles{" "}
+                            Cricketer Abhishek Sharma’s Most Coveted Possessions
                           </p>
                         </div>
                       </a>
@@ -533,7 +649,7 @@ const Article = () => {
                     <div className="story_interesting_classname_container">
                       <a
                         className="story_interesting_classname_card"
-                        href="/motoring/cars/maserati-granturismo-builds-on-75-years-of-gt-legacy"
+                        href="/style/jewellery-and-accessories/international-jewellery-designers-alice-cicolini-silvia-furmanovich-ann-korman-ark-van-gelder-noor-fares-lily-gabriella"
                       >
                         <div className="story_interesting_classname_imageWrapper">
                           <img
@@ -543,7 +659,7 @@ const Article = () => {
                             data-nimg="fill"
                             className="story_interesting_classname_image"
                             sizes="100vw"
-                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-09-16T11%253A19%253A05.806Z-Untitled%2520design%2520-%25202025-09-16T164811.412.jpg&w=1920&q=75"
+                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-10-30T11%253A36%253A24.823Z-Untitled%2520design%2520-%25202025-10-30T170558.942.jpg&w=3840&q=75"
                             style={{
                               position: "absolute",
                               height: "100%",
@@ -555,11 +671,11 @@ const Article = () => {
                         </div>
                         <div className="story_interesting_classname_text">
                           <p className="story_interesting_classname_heading">
-                            Cars
+                            Jewellery &amp; Accessories
                           </p>
                           <p className="story_interesting_classname_description">
-                            Unveiling the Secrets of the Maserati Granturismo’s
-                            Timeless Appeal
+                            Six Celebrated Designers on Drawing Inspiration From
+                            India
                           </p>
                         </div>
                       </a>
@@ -570,7 +686,7 @@ const Article = () => {
                     <div className="story_interesting_classname_container">
                       <a
                         className="story_interesting_classname_card"
-                        href="/motoring/cars/60-special-aston-martins-to-celebrate-6-decades-of-volante"
+                        href="/style/fashion-and-beauty/reliance-italian-label-max-co-to-mumbai-india-launch-2026"
                       >
                         <div className="story_interesting_classname_imageWrapper">
                           <img
@@ -580,7 +696,7 @@ const Article = () => {
                             data-nimg="fill"
                             className="story_interesting_classname_image"
                             sizes="100vw"
-                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-09-15T16%253A21%253A45.126Z-RR%2520Inline%2520%252824%2529.jpg&w=1920&q=75"
+                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-10-30T08%253A35%253A49.315Z-Untitled%2520design%2520-%25202025-10-30T140527.052.jpg&w=3840&q=75"
                             style={{
                               position: "absolute",
                               height: "100%",
@@ -592,11 +708,11 @@ const Article = () => {
                         </div>
                         <div className="story_interesting_classname_text">
                           <p className="story_interesting_classname_heading">
-                            Cars
+                            Fashion &amp; Beauty
                           </p>
                           <p className="story_interesting_classname_description">
-                            6 Decades of Volante: Aston Martin Celebrates with
-                            60 Special Anniversary Editions
+                            Reliance is Bringing Italian Label MAX&amp;Co. to
+                            Mumbai, and We Have the Deets
                           </p>
                         </div>
                       </a>
@@ -607,7 +723,7 @@ const Article = () => {
                     <div className="story_interesting_classname_container">
                       <a
                         className="story_interesting_classname_card"
-                        href="/motoring/cars/ferrari-just-brought-the-80s-back-to-life-with-the-revival-of-the-testarossa-name"
+                        href="/style/timepieces/cartiers-latest-santos-de-cartier-takes-flight-as-a-feather-light-icon"
                       >
                         <div className="story_interesting_classname_imageWrapper">
                           <img
@@ -617,7 +733,7 @@ const Article = () => {
                             data-nimg="fill"
                             className="story_interesting_classname_image"
                             sizes="100vw"
-                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-09-15T05%253A33%253A38.461Z-Untitled%2520design%2520-%25202025-09-15T110115.316.jpg&w=1920&q=75"
+                            src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-10-29T11%253A22%253A26.844Z-WhatsApp%2520Image%25202025-10-29%2520at%252014.54.50_2f320bc7.jpg&w=3840&q=75"
                             style={{
                               position: "absolute",
                               height: "100%",
@@ -629,11 +745,11 @@ const Article = () => {
                         </div>
                         <div className="story_interesting_classname_text">
                           <p className="story_interesting_classname_heading">
-                            Cars
+                            Timepieces
                           </p>
                           <p className="story_interesting_classname_description">
-                            Ferrari Just Brought the ‘80s back to Life with the
-                            Revival of the Testarossa
+                            Cartier’s Latest Santos de Cartier Takes Flight as a
+                            Feather-Light Icon
                           </p>
                         </div>
                       </a>
@@ -646,13 +762,129 @@ const Article = () => {
           </div>
           <div className="ad-flex-all">
             <div
-              id="div-gpt-ad-subcategory-bottom-300x250-68cace2c9b4d8b0a27de3adc"
+              id="div-gpt-ad-subcategory-bottom-300x250-68be7cdee4b45fca5dcbe601"
               data-cy="Ad"
               className="ad-text"
+              data-google-query-id="CKC6r_yRzpADFfJFnQkd4pscvA"
               style={{ marginBottom: 20 }}
-            />
+            >
+              <div
+                id="google_ads_iframe_/23290324739/RobbReport-Desktop-Bottom-300_1__container__"
+                style={{ border: "0pt none", width: 300, height: 0 }}
+              />
+            </div>
           </div>
         </div>
+        <div
+          className="nextStoryContainer"
+          style={{
+            margin: "20px 0px",
+            display: "flex",
+            alignItems: "center",
+            width: "100%",
+            backgroundColor: "var(--body-bg-color)",
+            gap: "1rem",
+          }}
+        >
+          <h2
+            style={{
+              fontFamily: "serif",
+              fontSize: "1.8rem",
+              fontWeight: "bold",
+              whiteSpace: "nowrap",
+              marginLeft: 12,
+            }}
+          >
+            Next Story
+          </h2>
+          <div
+            style={{
+              flexGrow: 1,
+              height: 1,
+              backgroundColor: "var(--text-color)",
+            }}
+          />
+        </div>
+        <div
+          data-id="68be7cdee4b45fca5dcbe601"
+          data-slug="/style/fashion-and-beauty/luxury-athleisure-tenniscore-fashion-luxury-brands-gucci-hermes-dior"
+          data-position="top"
+          data-marker="true"
+          islast="false"
+          style={{
+            position: "absolute",
+            left: 0,
+            width: "100%",
+            height: 10,
+            top: "10%",
+            pointerEvents: "none",
+            zIndex: -1,
+          }}
+        />
+        <div
+          data-id="68be7cdee4b45fca5dcbe601"
+          data-slug="/style/fashion-and-beauty/luxury-athleisure-tenniscore-fashion-luxury-brands-gucci-hermes-dior"
+          data-position="upperMiddle"
+          data-marker="true"
+          islast="false"
+          style={{
+            position: "absolute",
+            left: 0,
+            width: "100%",
+            height: 10,
+            top: "30%",
+            pointerEvents: "none",
+            zIndex: -1,
+          }}
+        />
+        <div
+          data-id="68be7cdee4b45fca5dcbe601"
+          data-slug="/style/fashion-and-beauty/luxury-athleisure-tenniscore-fashion-luxury-brands-gucci-hermes-dior"
+          data-position="middle"
+          data-marker="true"
+          islast="false"
+          style={{
+            position: "absolute",
+            left: 0,
+            width: "100%",
+            height: 10,
+            top: "50%",
+            pointerEvents: "none",
+            zIndex: -1,
+          }}
+        />
+        <div
+          data-id="68be7cdee4b45fca5dcbe601"
+          data-slug="/style/fashion-and-beauty/luxury-athleisure-tenniscore-fashion-luxury-brands-gucci-hermes-dior"
+          data-position="lowerMiddle"
+          data-marker="true"
+          islast="false"
+          style={{
+            position: "absolute",
+            left: 0,
+            width: "100%",
+            height: 10,
+            top: "70%",
+            pointerEvents: "none",
+            zIndex: -1,
+          }}
+        />
+        <div
+          data-id="68be7cdee4b45fca5dcbe601"
+          data-slug="/style/fashion-and-beauty/luxury-athleisure-tenniscore-fashion-luxury-brands-gucci-hermes-dior"
+          data-position="bottom"
+          data-marker="true"
+          islast="false"
+          style={{
+            position: "absolute",
+            left: 0,
+            width: "100%",
+            height: 10,
+            top: "90%",
+            pointerEvents: "none",
+            zIndex: -1,
+          }}
+        />
       </div>
 
       <div className="share__modal ">
