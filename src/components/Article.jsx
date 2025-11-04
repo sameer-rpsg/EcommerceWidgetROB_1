@@ -200,94 +200,14 @@ const Article = () => {
                   </span>
                 </p>
                 <p style={{ textAlign: "justify" }} />
-                <p style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(36, 36, 36)" }}>
-                    Featuring sports-inspired ready-to-wear, handbags, and
-                    accessories, the Gucci Tennis collection reflects the
-                    lifestyle of the tennis world. Women’s styles are crisp and
-                    pleated, accented with the signature web stripe as a
-                    stylistic reinterpretation of classic tennis whites. Men’s
-                    polo shirts channel a 1970s attitude with clean-cut,
-                    pronounced collars. Accessories add a retro touch with
-                    headbands and metallic aviators, while handbags and duffle
-                    bags crafted in GG monogram canvas with leather trim echo
-                    the House’s heritage of sport-infused craftsmanship.
-                  </span>
-                </p>
-                <div>
-                  <div className="ad-flex-all">
-                    <div
-                      id="div-gpt-ad-subcategory-within-content-300x250-68be7cdee4b45fca5dcbe601"
-                      data-cy="Ad"
-                      className="ad-text"
-                      data-google-query-id="CI2Sr_yRzpADFblwnQkdjd47yg"
-                      style={{ marginBottom: 20 }}
-                    >
-                      <div
-                        id="google_ads_iframe_/23290324739/RobbReport-Desktop-Bottom-300_0__container__"
-                        style={{ border: "0pt none", width: 300, height: 0 }}
-                      />
-                    </div>
-                  </div>
-                </div>
-                <div>
-                  <div
-                    style={{
-                      display: "flex",
-                      justifyContent: "center",
-                      margin: "20px 0",
-                    }}
-                  >
-                    <div className="story-hoverDiv" style={{ width: "100%" }}>
-                      <img
-                        alt="Gucci"
-                        loading="lazy"
-                        width={700}
-                        height={475}
-                        decoding="async"
-                        data-nimg={1}
-                        style={{
-                          color: "transparent",
-                          width: "100%",
-                          height: "auto",
-                        }}
-                        sizes="100vw"
-                        src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-08T13%253A19%253A49.861Z-RR%2520Inline%2520%25283%2529.jpg&w=3840&q=75"
-                      />
-                      <div className="story-photoBy">
-                        <span className="story-caption">
-                          The limited-edition Gucci x Head racket highlights the
-                          House’s longstanding connection with the tennis world
-                          through a bold design that blends performance with
-                          distinct design elements.{" "}
-                        </span>
-                        <span className="story-courtesy">
-                          Image courtesy: Gucci
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <p style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(36, 36, 36)" }}>
-                    The limited-edition Gucci x Head racket highlights the
-                    House’s longstanding connection with the tennis world
-                    through a bold design that blends performance with distinct
-                    design elements. The frame is adorned with Gucci’s web
-                    stripe, while the red string bed features the Interlocking G
-                    emblem at its centre. Designed for a balanced blend of power
-                    and control, the Speed MP racket includes an anti-vibration
-                    dampener, uniting technical performance with unmistakable
-                    style.
-                  </span>
-                </p>
+             
                 <h2
                   style={{ textAlign: "justify", fontSize: "34px!important" }}
                 >
                   <span style={{ color: "rgb(36, 36, 36)" }}>Hermès</span>
                 </h2>
                   <div className={styles.EcomHovercardwrapper}>
-                  <EcomWidgetCard imgSrc="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-08T13%253A23%253A01.573Z-RR%2520Inline%2520%25285%2529.jpg&w=3840&q=75" />
+                  <EcomWidgetCard imgSrc="/ecomimgnew1.png" />
                 </div>
                   <EcomWidgetGrid />
                 <div>
@@ -353,109 +273,10 @@ const Article = () => {
                     tweaks.
                   </span>
                 </p>
-                <h2
-                  style={{ textAlign: "justify", fontSize: "34px!important" }}
-                >
-                  <span style={{ color: "rgb(36, 36, 36)" }}>Dior Men</span>
-                </h2>
-                <div>
-                  <div
-                    style={{
-                      display: "flex",
-                      justifyContent: "center",
-                      margin: "20px 0",
-                    }}
-                  >
-                    <div className="story-hoverDiv" style={{ width: "100%" }}>
-                      <img
-                        alt="Tenniscore Fashion "
-                        loading="lazy"
-                        width={700}
-                        height={475}
-                        decoding="async"
-                        data-nimg={1}
-                        style={{
-                          color: "transparent",
-                          width: "100%",
-                          height: "auto",
-                        }}
-                        sizes="100vw"
-                        src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-08T13%253A23%253A01.573Z-RR%2520Inline%2520%25285%2529.jpg&w=3840&q=75"
-                      />
-                      <div className="story-photoBy">
-                        <span className="story-caption">
-                          (From left): Dior x Lew Hamilton capsule features
-                          technical jackets, and polo tees; the Christian
-                          Louboutin Mooncrest Cap brings elevated street style
-                          to life with its sleek silhouette
-                        </span>
-                        <span className="story-courtesy">
-                          Image courtesy: (From left): Dior, Christian Louboutin
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <p style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(36, 36, 36)" }}>
-                    Dior x Lewis Hamilton capsule features technical jackets,
-                    and polo tees with recurring CD motifs. Moreover, with its
-                    ultra-contemporary silhouette, the new B33 sneakers invite
-                    urban exploration.&nbsp;
-                  </span>
-                </p>
-                <div>
-                  <div className="ad-flex-all">
-                    <div
-                      id="div-gpt-ad-subcategory-within-content-300x250-68be7cdee4b45fca5dcbe601"
-                      data-cy="Ad"
-                      className="ad-text"
-                      style={{ marginBottom: 20 }}
-                    />
-                  </div>
-                </div>
-                <p style={{ textAlign: "justify" }} />
-                <p style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(36, 36, 36)" }}>
-                    Another case in point is{" "}
-                  </span>
-                  <a
-                    target="_blank"
-                    style={{ color: "rgb(36, 36, 36)" }}
-                    href="https://www.robbreportindia.com/tag/dior"
-                  >
-                    <span style={{ color: "rgb(36, 36, 36)" }}>Dior</span>
-                  </a>
-                  <span style={{ color: "rgb(36, 36, 36)" }}>
-                    {" "}
-                    Men's guest Lifestyle capsule by Lewis Hamilton, which
-                    merges street-wear aesthetic with sophistication in daring
-                    pieces with bold volumes. The collection features jackets
-                    and coats, bringing innovative tailoring with sportswear
-                    allure to the fore. These pieces are thoughtfully paired
-                    with refined knitwear, comfortable sweats, classic shirts,
-                    and reflective tracksuits.{" "}
-                  </span>
-                </p>
-                <h2
-                  style={{ textAlign: "justify", fontSize: "34px!important" }}
-                >
-                  <span style={{ color: "rgb(36, 36, 36)" }}>
-                    Christian Louboutin
-                  </span>
-                </h2>
-                <p style={{ textAlign: "justify" }} />
-                <p style={{ textAlign: "justify" }}>
-                  <span style={{ color: "rgb(36, 36, 36)" }}>
-                    The Christian Louboutin Mooncrest Cap brings elevated street
-                    style to life with its sleek silhouette. The front features
-                    an embroidered crest detail, while the adjustable strap
-                    ensures comfort and versatility. Perfect for off-duty days,
-                    city strolls, or adding a touch of luxury to weekend wear,
-                    the Mooncrest Cap effortlessly blends sporty ease with
-                    designer flair.
-                  </span>
-                </p>
+
+                
+                
+               
                 <div
                   style={{
                     display: "flex",
@@ -775,36 +596,7 @@ const Article = () => {
             </div>
           </div>
         </div>
-        <div
-          className="nextStoryContainer"
-          style={{
-            margin: "20px 0px",
-            display: "flex",
-            alignItems: "center",
-            width: "100%",
-            backgroundColor: "var(--body-bg-color)",
-            gap: "1rem",
-          }}
-        >
-          <h2
-            style={{
-              fontFamily: "serif",
-              fontSize: "1.8rem",
-              fontWeight: "bold",
-              whiteSpace: "nowrap",
-              marginLeft: 12,
-            }}
-          >
-            Next Story
-          </h2>
-          <div
-            style={{
-              flexGrow: 1,
-              height: 1,
-              backgroundColor: "var(--text-color)",
-            }}
-          />
-        </div>
+      
         <div
           data-id="68be7cdee4b45fca5dcbe601"
           data-slug="/style/fashion-and-beauty/luxury-athleisure-tenniscore-fashion-luxury-brands-gucci-hermes-dior"
