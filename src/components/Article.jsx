@@ -84,7 +84,7 @@ const Article = () => {
                 color: "transparent",
               }}
               sizes="100vw"
-              src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-09-08T13%253A27%253A28.797Z-RR%2520Lead%2520%25281%2529.jpg&w=3840&q=75"
+              src="https://world.maxandco.com/mediaObject/maxandco4/HOMEPAGE/02-11-25/ASSET-DESKTOP-20251030T075355Z-1-001/ASSET-DESKTOP/cappotti_maxandco_hero_desktop/original/cappotti_maxandco_hero_desktop.jpg"
             />
           </div>
           <div className="story-photoBy">
@@ -166,7 +166,7 @@ const Article = () => {
                           height: "auto",
                         }}
                         sizes="100vw"
-                        src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-08T13%253A16%253A24.988Z-RR%2520Inline%2520%25282%2529.jpg&w=3840&q=75"
+                        src="https://world.maxandco.com/mediaObject/maxandco4/HOMEPAGE/02-11-25/ASSET-DESKTOP-20251030T075355Z-1-001/ASSET-DESKTOP/HeroBanner_2/resolutions/res-l1280x720/HeroBanner_2.jpg"
                       />
                       <div className="story-photoBy">
                         <span className="story-caption">
@@ -207,7 +207,7 @@ const Article = () => {
                   <span style={{ color: "rgb(36, 36, 36)" }}>Hermès</span>
                 </h2>
                   <div className={styles.EcomHovercardwrapper}>
-                  <EcomWidgetCard imgSrc="/ecomimgnew1.png" />
+                  <EcomWidgetCard imgSrc="https://world.maxandco.com/mediaObject/maxandco4/HOMEPAGE/22-10-25/ASSET-DESKTOP-20251017T154201Z-1-001/ASSET-DESKTOP/abbigliamento_maxandco_double_desktop/original/abbigliamento_maxandco_double_desktop.jpg" />
                 </div>
                   <EcomWidgetGrid />
                 <div>
